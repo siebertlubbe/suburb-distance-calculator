@@ -5,7 +5,7 @@ Calculate the distance between every suburb in a provided csv file with suburb, 
 
 $ mysql -u root
 
--> create database `suburbb;
+-> create database `suburb-distances`;
 
 -> exit
 
