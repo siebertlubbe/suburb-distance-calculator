@@ -12,3 +12,5 @@ $ cd lib
 $ ruby migratedb.rb
 
 $ ruby import_suburb_data.rb
+
+$ ruby populate_distances.rb
