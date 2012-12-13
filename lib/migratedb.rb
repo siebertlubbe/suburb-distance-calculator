@@ -1,6 +1,5 @@
 # simple script to migrate the database
 require "environment"
-require "dbconnect"
 
 puts "Current version:", ActiveRecord::Migrator.current_version
 
